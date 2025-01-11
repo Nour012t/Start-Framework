@@ -1,0 +1,10 @@
+.line{
+    border-bottom: 5px solid white;
+   width: 20px;
+}
+.home{
+    background-color: #1abc9c;
+    color:aliceblue;
+    height: 80vh;
+
+}
